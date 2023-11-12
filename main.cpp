@@ -1,3 +1,5 @@
+// Arzimbetov Baxadir, student ID: 230056, group: FSE1
+
 #include <iostream>
 #include "problems/problem_1.cpp"
 #include "problems/problem_2.cpp"
